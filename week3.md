@@ -4,7 +4,7 @@
 ```mysql
 select * from goal;
 ```
-![Exercises2 Question1.png](Exercises2%20Question1.png)
+![Ex2Q1.png](Ex2Q1.png)
 
 ## Question 2
 ```mysql
