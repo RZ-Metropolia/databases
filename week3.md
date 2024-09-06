@@ -10,7 +10,7 @@ select * from goal;
 ```mysql
 select name, type from airport where iso_country = "FI";
 ```
-![Ex2Q2.png](pictures/Ex2Q2.png
+![Ex2Q2.png](pictures/Ex2Q2.png)
 
 ## Question 3
 ```mysql
