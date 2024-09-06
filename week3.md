@@ -17,3 +17,9 @@ select name, type from airport where iso_country = "FI";
 select name from airport where iso_country = "FI" order by name asc;
 ```
 ![Ex2Q3.png](pictures/Ex2Q3.png)
+
+## Question 4
+```mysql
+select name, type from airport where iso_country = "FI" order by type asc, name asc;
+```
+![Ex2Q4.png](pictures/Ex2Q4.png)
