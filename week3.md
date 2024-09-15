@@ -60,4 +60,4 @@ select screen_name, co2_budget, co2_consumed, (co2_budget - co2_consumed) as co2
 from game 
 where screen_name = "Ilkka";
 ```
-![Ex2Q10..png](pictures/Ex2Q10..png)
+![Ex2Q10..png](pictures/Ex2Q10.png)
