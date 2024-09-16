@@ -9,7 +9,7 @@ select iso_country
 from airport
 where name like "Satsuma%");
 ``` 
-![EX5Q1.png](pictures/EX5Q1.png
+![EX5Q1.png](pictures/EX5Q1.png)
 
 ## Question 2 
 ```sql
